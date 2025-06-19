@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yakar Blog</title>
+    <link>http://localhost:35829/</link>
+    <description>Recent content on Yakar Blog</description>
+    <generator>Hugo</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Thu, 19 Jun 2025 13:41:33 +0300</lastBuildDate>
+    <atom:link href="http://localhost:35829/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giris</title>
+      <link>http://localhost:35829/posts/giris/</link>
+      <pubDate>Thu, 19 Jun 2025 13:41:33 +0300</pubDate>
+      <guid>http://localhost:35829/posts/giris/</guid>
+      <description>&lt;p&gt;BURDA FASIST YOKTUR AQ ADAM OLUN KUFUR YAZMAYIN KNK MI SEVGILIMI OLCAKSANIZ OLUN EVLENME SOLONUNA SOKIM&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
